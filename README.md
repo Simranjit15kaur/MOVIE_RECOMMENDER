@@ -15,14 +15,7 @@ The recommender system is trained on the **TMDB 5000 Movies Dataset**, which con
 - Movie details (title, overview, genres, cast, crew, etc.)
 - Movie IDs used to fetch posters via the TMDB API.
 
-## Installation & Setup
-### 1. Clone the Repository
-```sh
-git clone https://github.com/yourusername/movie-recommender.git
-cd movie-recommender
-```
-
-### 2. Install Dependencies
+###  Install Dependencies
 Ensure you have Python installed, then run:
 ```sh
 pip install -r requirements.txt
