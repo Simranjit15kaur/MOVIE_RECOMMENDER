@@ -60,7 +60,7 @@ streamlit run app.py
 This project is open-source and available under the **MIT License**.
 
 ---
-**Author:** Your Name  
+**Author:** Simranjit Kaur  
 GitHub: [Simranjit15kaur](https://github.com/Simranjit15kaur)  
 
 
