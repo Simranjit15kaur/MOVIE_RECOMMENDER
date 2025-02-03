@@ -61,6 +61,6 @@ This project is open-source and available under the **MIT License**.
 
 ---
 **Author:** Your Name  
-GitHub: [yourusername](https://github.com/yourusername)  
-LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)
+GitHub: [Simranjit15kaur](https://github.com/Simranjit15kaur)  
+
 
